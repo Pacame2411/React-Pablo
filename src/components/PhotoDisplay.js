@@ -1,5 +1,6 @@
+// PhotoDisplay.js
 import React from 'react';
-import imageSrc from '../assets/bogarra.png'; // Asegúrate de que la ruta sea correcta.
+import imageSrc from '../assets/foto.jpg'; // Importa la imagen
 
 function PhotoDisplay() {
   return (

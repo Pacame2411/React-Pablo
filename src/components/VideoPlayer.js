@@ -1,5 +1,6 @@
+// VideoPlayer.js
 import React from 'react';
-import videoSrc from '../assets/video.mp4'; // Asegúrate de que la ruta sea correcta.
+import videoSrc from '../assets/video.mp4'; // Importa el video
 
 function VideoPlayer() {
   return (
