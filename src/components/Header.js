@@ -1,5 +1,6 @@
+// En Header.js
 import React from 'react';
-import audioClip from '../assets/Bulgari.wav'; // Ajusta el path según tu estructura de archivos
+import audioClip from '../assets/Bulgari.wav'; // Ruta relativa
 
 function Header({ imageUrl }) {
   return (
